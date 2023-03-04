@@ -15,10 +15,10 @@
 2. Bootstrap
 3. PHP
 
-## CONTRIBUTOR:
+## CONTRIBUTORS:
 
-1. Charles Adrian C. Virtucio
-2.
+1. TEAM LEADER: 
+2. Charles Adrian C. Virtucio
 3.
 4.
 5.
